@@ -13,4 +13,5 @@ script:
   - mkdir cmake
   - cd /cmake
   - cmake ../
+  - ls
   
