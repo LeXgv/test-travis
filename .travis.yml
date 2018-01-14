@@ -11,7 +11,7 @@ addons:
       - cmake
 script:
   - mkdir cmake
-  - cd /cmake
+  - cd cmake
   - cmake ../
   - ls
   
