@@ -10,6 +10,6 @@ addons:
       - cmake-data
       - cmake
 script:
-  -cd /cmake
-  -cmake ../
+  - cd /cmake
+  - cmake ../
   
