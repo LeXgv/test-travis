@@ -13,6 +13,7 @@ script:
   - mkdir cmake
   - cd cmake
   - cmake ../
-  - ls
   - make
+  - ls
+  - ./main
   
